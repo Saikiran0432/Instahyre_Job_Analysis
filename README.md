@@ -1,4 +1,8 @@
 # JobAnalytics_Project
+# Skills
+- Python
+- Excel
+- Data Cleaning
 ## Web Scraping
 - Scraped the Instahyre website with the help of Pandas, requests and JSON Library
 - Extrated the required data for analyzing and making insights

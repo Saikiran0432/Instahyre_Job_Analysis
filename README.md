@@ -14,5 +14,4 @@
 - Created a visuvalizations which will help to generate a insights
 - Provided appropriate slicers which will allow the user to extract the required information
 - Used clear and concise data labels to provide additional context for data points
-# Future Scope
-- 
+

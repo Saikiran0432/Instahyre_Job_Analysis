@@ -16,5 +16,8 @@
 - Created a visuvalizations which will help to generate a insights
 - Provided appropriate slicers which will allow the user to extract the required information
 - Used clear and concise data labels to provide additional context for data points
+# Limitations
+- Not Enough about skills of the employees
+- Struggle with updates like requirment is changed by different companies
 # Conclusion
   In summary, the project describes the employee count in different companies, jobs available in different locations, the skills required for jobs 

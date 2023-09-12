@@ -1,6 +1,8 @@
+#importing required librares
 import json 
 import pandas as pd
 import requests
+#Taking urls into a list
 urls = ["https://www.instahyre.com/api/v1/job_search?company_size=0&isLandingPage=true&job_type=0&offset=0",
         "https://www.instahyre.com/api/v1/job_search?company_size=0&isLandingPage=true&job_type=0&offset=10",
         "https://www.instahyre.com/api/v1/job_search?company_size=0&isLandingPage=true&job_type=0&offset=20",

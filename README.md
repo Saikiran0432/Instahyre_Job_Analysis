@@ -1,4 +1,4 @@
-# JobAnalytics_Project
+# JobAnalysis
 # Skills
 - Python
 - Excel

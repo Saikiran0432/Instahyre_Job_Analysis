@@ -1,4 +1,6 @@
 # JobAnalysis
+# Introduction
+  This repository contains the code and documentation for the Job Analysis data from the Instahyre website using web scraping techinques, cleaning the data using python and pandas, Creating a dashborad which will generate a meaningful insights and provided the appropriate slicers to the users for decision making.
 # Skills
 - Python
 - Excel
@@ -14,4 +16,5 @@
 - Created a visuvalizations which will help to generate a insights
 - Provided appropriate slicers which will allow the user to extract the required information
 - Used clear and concise data labels to provide additional context for data points
-
+# Conclusion
+  In summary, the project describes the employee count in different companies, jobs available in different locations, the skills required for jobs 

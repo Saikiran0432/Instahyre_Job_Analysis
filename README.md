@@ -60,9 +60,6 @@ We leveraged Excel's capabilities to create interactive visualizations and table
 
 - Salary ranges exhibited significant variations among job categories, emphasizing the importance of informed salary negotiations for job applicants.
 
-## 🔍 Conclusion from Analysis
-
-The analysis provided valuable insights into the job market, highlighting the significance of location, job category, and salary negotiation. Job seekers can use these insights to identify potential job markets, and employers can make data-driven decisions when posting job listings.
 
 ## 🚀 Future Scope
 
@@ -71,6 +68,8 @@ In the future, this project can be expanded and improved in several ways:
 - Implement real-time data updates to reflect current job listings and salary trends.
 - Explore advanced analytics and machine learning for predictive job market trends.
 - Enhance the dashboard with more interactive and advanced chart types.
+## 🔍 Conclusion
+The analysis provided valuable insights into the job market, highlighting the significance of location, job category, and salary negotiation. Job seekers can use these insights to identify potential job markets, and employers can make data-driven decisions when posting job listings.
 
 
 
